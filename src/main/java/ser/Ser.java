@@ -11,7 +11,6 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 
-
 @WebServlet({"/Ser","/res","/login"})
 public class Ser extends HttpServlet {
 	private static final long serialVersionUID = 1L;
